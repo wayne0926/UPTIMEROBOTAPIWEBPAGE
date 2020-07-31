@@ -24,8 +24,8 @@ window.Config = {
   // 导航栏菜单
   Navi: [
     {
-      text: 'Homepage',
-      url: 'https://cyfan.top/'
+      text: 'SSLstatus',
+      url: 'https://ssl.cyfan.top/'
     },
     {
       text: 'Blog',
