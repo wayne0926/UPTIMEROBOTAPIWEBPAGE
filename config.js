@@ -29,7 +29,7 @@ window.Config = {
     },
     {
       text: 'TrafficStatus',
-      url: 'https://blog.cyfan.top'
+      url: 'https://view.cyfan.top'
     },
     {
       text: 'Blog',
