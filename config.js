@@ -2,7 +2,7 @@
 window.Config = {
 
   // 站点名
-  SiteName: '陈YFの服务器状态',
+  SiteName: '时过境迁Wayne网站状态',
 
   // 站点链接
   SiteUrl: '/',
@@ -10,7 +10,7 @@ window.Config = {
   // UptimeRobot Api Keys
   // 支持 Monitor-Specific 和 Read-Only 两只 Api Key
   ApiKeys: [
-    'ur787669-6ddf3a15e1ac21a76a43088c',
+    'ur1007826-4e59c85271319956247720f6',
   ],
 
   // 是否显示监测站点的链接
@@ -24,16 +24,16 @@ window.Config = {
   // 导航栏菜单
   Navi: [
     {
-      text: 'SSLStatus',
-      url: 'https://ssl.cyfan.top/'
+      text: 'GitHub',
+      url: 'https://github.com/wayne0926'
     },
-    {
-      text: 'TrafficStatus',
-      url: 'https://view.cyfan.top'
-    },
+//     {
+//       text: 'TrafficStatus',
+//       url: 'https://view.cyfan.top'
+//     },
     {
       text: 'Blog',
-      url: 'https://blog.cyfan.top'
+      url: 'https://wr0926.ml'
     }
   ]
 };
